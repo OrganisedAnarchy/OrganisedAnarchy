@@ -1,16 +1,21 @@
-## Hi there 👋
+# OrganisedAnarchy
 
-<!--
-**OrganisedAnarchy/OrganisedAnarchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical software for tabletop games, gaming communities, and personal productivity.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [The World of Magnar](https://github.com/OrganisedAnarchy/Magnar-Lorewebsite)
+A player-focused TTRPG reference for a custom fantasy setting. Built with Laravel, Vue, SCSS, and Docker, with character-aware lore and a living celestial system.
+
+### [Blood on the Clocktower Discord Bot](https://github.com/OrganisedAnarchy/Blood-on-the-clock-tower)
+A Discord.js bot that guides storytellers through game setup, player sign-ups, and role selection for the Trouble Brewing, Bad Moon Rising, and Sects & Violets scripts. The project is in progress; custom scripts are not implemented yet.
+
+### [Habit Tracker](https://github.com/OrganisedAnarchy/Habbit-Tracker)
+A C# console application for managing habits, weekly targets, completion status, and optional deadlines, with local JSON persistence.
+
+### [NPC Generator](https://github.com/OrganisedAnarchy/NPC-generator)
+An early-stage Node.js and Express project for TTRPG NPC creation. The current app is a prototype; generator and builder workflows and persistence are planned.
+
+## Technologies
+
+C# · .NET · JavaScript · Node.js · PHP · Laravel · Vue · Docker
